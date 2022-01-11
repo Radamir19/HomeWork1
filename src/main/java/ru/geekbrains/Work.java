@@ -7,7 +7,6 @@ public class Work {
         //Human human = new Human();
         //human.run();
         //human.jump();
-
         //Robot robot = new Robot();
         //robot.run();
         //robot.jump();
